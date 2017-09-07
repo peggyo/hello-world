@@ -1,1 +1,2 @@
-# Example of a change in the README.md file for hello-world
+# Practice repository for DWA
+http://dwa15.com
